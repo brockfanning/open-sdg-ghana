@@ -1,7 +1,21 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Source details,Sex,Degree of urbanisation,Observation-level footnotes,Value
+2011,MICS,,,,22.7
+2011,MICS,,Urban,,18.1
+2011,MICS,,Rural,,2.6
+2011,MICS,Male,,,25.3
+2011,MICS,Female,,,20.3
+2014,GDHS,,,,18.8
+2014,GDHS,,Urban,,14.8
+2014,GDHS,,Rural,,22.1
+2014,GDHS,Male,,,20.4
+2014,GDHS,Female,,,17.0
+2017,MICS,,,,17.5
+2017,MICS,,Urban,,13.0
+2017,MICS,,Rural,,20.3
+2017,MICS,Male,,,19.5
+2017,MICS,Female,,,15.6
+2025,"MICS, GHDS",,,projection,10.1
+2025,"MICS, GHDS",,Urban,projection,7.9
+2025,"MICS, GHDS",,Rural,projection,11.9
+2025,"MICS, GHDS",Male,,projection,11.1
+2025,"MICS, GHDS",Female,,projection,9.0

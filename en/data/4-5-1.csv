@@ -1,7 +1,45 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Reference area,Education level,Value
+2019,Upper West,Pre-primary education,1.0
+2019,Upper East,Pre-primary education,0.98
+2019,Central,Pre-primary education,1.04
+2019,Volta,Pre-primary education,0.99
+2019,Ashanti,Pre-primary education,0.98
+2019,Eastern,Pre-primary education,0.96
+2019,Greater Accra,Pre-primary education,1.04
+2019,Brong Ahafo,Pre-primary education,1.07
+2019,Northern,Pre-primary education,1.02
+2019,Western,Pre-primary education,0.96
+2019,Ghana,Pre-primary education,0.99
+2019,Upper West,Primary education,1.01
+2019,Upper East,Primary education,0.99
+2019,Central,Primary education,1.03
+2019,Volta,Primary education,1.0
+2019,Ashanti,Primary education,1.0
+2019,Eastern,Primary education,0.95
+2019,Greater Accra,Primary education,1.05
+2019,Brong Ahafo,Primary education,1.1
+2019,Northern,Primary education,1.02
+2019,Western,Primary education,0.95
+2019,Ghana,Primary education,1.0
+2019,Upper West,Lower secondary education,1.01
+2019,Upper East,Lower secondary education,0.97
+2019,Central,Lower secondary education,1.06
+2019,Volta,Lower secondary education,1.03
+2019,Ashanti,Lower secondary education,1.0
+2019,Eastern,Lower secondary education,0.95
+2019,Greater Accra,Lower secondary education,1.19
+2019,Brong Ahafo,Lower secondary education,1.14
+2019,Northern,Lower secondary education,1.03
+2019,Western,Lower secondary education,0.95
+2019,Ghana,Lower secondary education,1.02
+2019,Upper West,Upper secondary education,0.94
+2019,Upper East,Upper secondary education,0.98
+2019,Central,Upper secondary education,0.97
+2019,Volta,Upper secondary education,1.09
+2019,Ashanti,Upper secondary education,0.74
+2019,Eastern,Upper secondary education,0.89
+2019,Greater Accra,Upper secondary education,1.04
+2019,Brong Ahafo,Upper secondary education,0.93
+2019,Northern,Upper secondary education,1.0
+2019,Western,Upper secondary education,0.94
+2019,Ghana,Upper secondary education,0.95

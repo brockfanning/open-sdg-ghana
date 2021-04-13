@@ -1,1 +1,5 @@
 From,To
+Source details,Sex
+Source details,Education level
+Education level,COMPOSITE_BREAKDOWN
+COMPOSITE_BREAKDOWN,Custom Breakdown
